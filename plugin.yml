@@ -1,0 +1,11 @@
+name: EconomyPlugin
+author: Omega892
+api: 5.0.0
+version: 1.0.0
+main: Omega892\Economy\Main
+website: https://github.com/Omega89222
+permissions:
+    addmoney.use:
+         default: op
+    removemoney.use:
+         default: op
