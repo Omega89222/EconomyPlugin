@@ -6,7 +6,6 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
 use pocketmine\utils\Config;
 use pocketmine\utils\SingletonTrait;
-use pocketmine\scheduler\Task;
 
 use Omega892\Economy\Commands\SeeMoney;
 use Omega892\Economy\Commands\AddMoney;
